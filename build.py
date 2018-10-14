@@ -25,19 +25,20 @@ SCALE_CHARACTER_GLYPHS_THRESHOLD = 0.1
 
 prefixed_fonts = [
   # Apache 2.0 license
-  'fonts/codeface/fonts/cousine/*.ttf',
-  'fonts/codeface/fonts/droid-sans-mono/*.ttf',
-  'fonts/codeface/fonts/meslo/*.ttf',
-  'fonts/codeface/fonts/roboto-mono/*.ttf',
+#   'fonts/codeface/fonts/cousine/*.ttf',
+#   'fonts/codeface/fonts/droid-sans-mono/*.ttf',
+#   'fonts/codeface/fonts/meslo/*.ttf',
+#   'fonts/codeface/fonts/roboto-mono/*.ttf',
 
-  # MIT license
-  'fonts/codeface/fonts/dejavu-sans-mono/*.ttf',
-  'fonts/codeface/fonts/hack/*.ttf',
+#   # MIT license
+#   'fonts/codeface/fonts/dejavu-sans-mono/*.ttf',
+#   'fonts/codeface/fonts/hack/*.ttf',
 
-  # SIL OFL with no Reserved Font Name
-  'fonts/codeface/fonts/edlo/*.ttf',
-  'fonts/codeface/fonts/fantasque-sans-mono/*.ttf',
-  'fonts/codeface/fonts/inconsolata/*.ttf',
+#   # SIL OFL with no Reserved Font Name
+#   'fonts/codeface/fonts/edlo/*.ttf',
+#   'fonts/codeface/fonts/fantasque-sans-mono/*.ttf',
+#   'fonts/codeface/fonts/inconsolata/*.ttf',
+  'fonts/SourceCodePro/*.ttf',
 ]
 
 #### Fonts that need to be renamed. ####
